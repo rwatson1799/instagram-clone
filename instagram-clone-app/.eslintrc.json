@@ -5,6 +5,7 @@
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"]}],
         "linebreak-style": 0,
         "no-unused-vars": 1,
-        "no-shadow": "off"
+        "no-shadow": "off",
+        "import/prefer-default-export": 0
     }
 }
