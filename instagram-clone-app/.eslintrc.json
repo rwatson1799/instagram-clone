@@ -6,6 +6,9 @@
         "linebreak-style": 0,
         "no-unused-vars": 1,
         "no-shadow": "off",
-        "import/prefer-default-export": 0
+        "import/prefer-default-export": 0,
+        "react/require-default-props": 0,
+        "react/forbid-prop-types": 0,
+        "import": 0
     }
 }
